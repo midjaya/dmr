@@ -36,17 +36,19 @@ BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
-HB_DMRID1  0000  103.187.147.208 passw0rd  62030
-HB_DMRID2  0000  103.172.204.165 passw0rd  62031
-HB_DMRID   0000  103.174.114.231 passw0rd  62030
-HB_BMS     0000  156.67.217.55 plw510  62030
-HB_RAPI    0000  156.67.217.55 pelalawan  62031
-HB_QRM     0000  156.67.217.55 pelalawan  62042
-HB_K2PI    0000  156.67.217.55 pelalawan  62043
-HB_DXP     0000  156.67.217.55 pelalawan  62044
-HB_JZ04    0000  156.67.217.55 pelalawan  62045
-HB_JOTA    0000  156.67.217.55 pelalawan  62050
-HB_INTER   0000  156.67.217.55 pelalawan  62051
-HB_INDO    0000  156.67.217.55 pelalawan  62052
-HB_JAWA    0000  156.67.217.55 pelalawan  62053
+ID-KRAP   0000  103.174.114.231 passw0rd  62030
+ID_KRAP1  0000  103.187.147.208 passw0rd  62030
+ID_KRAP2  0000  103.172.204.165 passw0rd  62031
+NUSANTARA    0000  103.163.139.80 passw0rd 62030
+K2PI_BMS     0000  156.67.217.55 plw510  62030
+K2PI_RAPI    0000  156.67.217.55 pelalawan  62031
+K2PI_QRM     0000  156.67.217.55 pelalawan  62042
+K2PI_K2PI    0000  156.67.217.55 pelalawan  62043
+K2PI_DXP     0000  156.67.217.55 pelalawan  62044
+K2PI_JZ04    0000  156.67.217.55 pelalawan  62045
+K2PI_JOTA    0000  156.67.217.55 pelalawan  62050
+K2PI_INTER   0000  156.67.217.55 pelalawan  62051
+K2PI_INDO    0000  156.67.217.55 pelalawan  62052
+K2PI_JAWA    0000  156.67.217.55 pelalawan  62053
+TEST_ONLY    0000  156.67.217.55 k2pi  62033
 ######################################################################################################
