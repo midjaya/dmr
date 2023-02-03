@@ -31,24 +31,15 @@ BM_5021_Malaysia		5021	5021.master.brandmeister.network	passw0rd	62031
 BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
 #
-#				HBLink DMR INDONESIA AT Hosts Below
+#				K2PI DMR INDONESIA AT Hosts Below
 #
 ######################################################################################################
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
-ID-KRAP   0000  103.174.114.231 passw0rd  62030
-ID_KRAP1  0000  103.187.147.208 passw0rd  62030
-ID_KRAP2  0000  103.172.204.165 passw0rd  62031
-NUSANTARA    0000  103.163.139.80 passw0rd 62030
-K2PI_BMS     0000  156.67.217.55 plw510  62030
-K2PI_RAPI    0000  156.67.217.55 pelalawan  62031
-K2PI_QRM     0000  156.67.217.55 pelalawan  62042
-K2PI_K2PI    0000  156.67.217.55 pelalawan  62043
-K2PI_DXP     0000  156.67.217.55 pelalawan  62044
-K2PI_JZ04    0000  156.67.217.55 pelalawan  62045
-K2PI_JOTA    0000  156.67.217.55 pelalawan  62050
-K2PI_INTER   0000  156.67.217.55 pelalawan  62051
-K2PI_INDO    0000  156.67.217.55 pelalawan  62052
-K2PI_JAWA    0000  156.67.217.55 pelalawan  62053
-TEST_ONLY    0000  156.67.217.55 k2pi  62033
+INDO         0000  156.67.217.55  passw0rd  62031
+DMRID        0000  156.67.217.55  passw0rd  62030
+RIAU-1       0000  156.67.217.55  passw0rd  62035
+RIAU-2       0000  156.67.217.55  passw0rd  62036
+INTER        0000  156.67.217.55  passw0rd  62037
+PELALAWAN    0000  156.67.217.55  passw0rd  62038
 ######################################################################################################
