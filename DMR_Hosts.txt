@@ -26,13 +26,6 @@ BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
-HB_ID_K2PI_NUSANTARA	0000	103.163.139.80	passw0rd	62031
-HB_ID_K2PI_INDONESIA	0000	156.67.217.55	passw0rd	62031
-HB_ID_K2PI_DMRID	0000	156.67.217.55	passw0rd	62041
-HB_ID_K2PI_RIAU1	0000	156.67.217.55	passw0rd	62035
-HB_ID_K2PI_RIAU2	0000	156.67.217.55	passw0rd	62036
-HB_ID_K2PI_INTER	0000	156.67.217.55	passw0rd	62037
-HB_ID_K2PI_PELALAWAN	0000	156.67.217.55	passw0rd	62038
-HB_ID_K2PI_EXPERIMENT	0000	156.67.217.55	k2piexp	62040
-HB_ID_KRAP_DMR_EXP	0000	103.174.114.231	passw0rd	62030
+HB_ID_PC2_INDO        0000	156.67.217.55	passw0rd	62031
+HB_ID_PC2_DMRID	    0000	156.67.217.55	passw0rd	62030
 ######################################################################################################
