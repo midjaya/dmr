@@ -1,0 +1,174 @@
+{
+  "results": [
+{
+	"id": 5155,
+	"callsign": "KRAP",
+	"tgid": "TG5155"
+},
+{
+        "id": 51,
+        "callsign": "GLOBAL LINK ALL-INDO",
+        "tgid": "TG510"
+},
+{
+        "id": 23426,
+        "callsign": "FREESTAR Worldwide",
+        "tgid": "TG23426"
+},
+{
+        "id": 51001,
+        "callsign": "GLOBAL LINK JAWA BARAT",
+        "tgid": "TG51001"
+},
+{
+        "id": 51002,
+        "callsign": "GLOBAL LINK JATENG/DIY",
+        "tgid": "TG51002"
+},
+{
+        "id": 888,
+        "callsign": "GLOBAL LINK DXP",
+        "tgid": "TG510888"
+},
+{
+        "id": 51003,
+        "callsign": "GLOBAL LINK JAWA TIMUR",
+        "tgid": "TG51003"
+},
+{
+        "id": 91,
+        "callsign": "GLOBAL LINK Worldwide",
+        "tgid": "TG91"
+},
+{
+        "id": 92,
+        "callsign": "LINK Freestar Worldwide",
+        "tgid": "TG92"
+},
+{
+        "id": 510888,
+        "callsign": "GLOBAL LINK DXP",
+        "tgid": "TG510888"
+},
+{
+        "id": 510555,
+        "callsign": "GLOBAL LINK P2C",
+        "tgid": "TG510555"
+},
+{
+        "id": 51405,
+        "callsign": "YB LOKAL PLW",
+        "tgid": "TG510502"
+},
+{
+        "id": 514,
+        "callsign": "YB LOKAL RIAU",
+        "tgid": "TG51050"
+},
+{
+        "id": 204,
+        "callsign": "JZ LOKAL RIAU",
+        "tgid": "TG204"
+},
+{
+        "id": 500,
+        "callsign": "CHANNEL ORARI NASIONAL",
+        "tgid": "TG5100"
+},
+{
+        "id": 20406,
+        "callsign": "JZ LOKAL DUMAI",
+        "tgid": "TG20406"
+},
+{
+        "id": 204,
+        "callsign": "JZ LOKAL RIAU",
+        "tgid": "TG204"
+},
+{
+        "id": 1080,
+        "callsign": "LINK LOKAL NUSANTARA",
+        "tgid": "TG200"
+},
+{
+        "id": 200,
+        "callsign": "CHANNEL LOKAL NUSANTARA",
+        "tgid": "TG200"
+},
+{
+        "id": 20413,
+        "callsign": "JZ LOKAL PELALAWAN",
+        "tgid": "TG20413"
+},
+{
+        "id": 20401,
+        "callsign": "JZ LOKAL PEKANBARU",
+        "tgid": "TG20401"
+},
+{
+        "id": 20403,
+        "callsign": "JZ LOKAL INDRAGIRI HULU",
+        "tgid": "TG20403"
+},
+{
+        "id": 20402,
+        "callsign": "JZ LOKAL KAMPAR",
+        "tgid": "TG20402"
+},
+{
+        "id": 20404,
+        "callsign": "JZ LOKAL INDRAGIRI HILIR",
+        "tgid": "TG20404"
+},
+{
+        "id": 20405,
+        "callsign": "JZ LOKAL BENGKALIS",
+        "tgid": "TG20401"
+},
+{
+        "id": 20410,
+        "callsign": "JZ LOKAL ROKAN HULU",
+        "tgid": "TG20410"
+},
+{
+        "id": 20411,
+        "callsign": "JZ LOKAL ROKAN HILIR",
+        "tgid": "TG20411"
+},
+{
+        "id": 20412,
+        "callsign": "JZ LOKAL S I A K",
+        "tgid": "TG20412"
+},
+{
+        "id": 20414,
+        "callsign": "JZ LOKAL KUANTAN SINGINGI",
+        "tgid": "TG20414"
+},
+{
+        "id": 20415,
+        "callsign": "JZ LOKAL TELUK MERANTI",
+        "tgid": "TG20415"
+},
+{
+        "id": 510555,
+        "callsign": "GLOBAL LINK P2C",
+        "tgid": "TG510555"
+},
+{
+        "id": 9999,
+        "callsign": "ECHO TEST",
+        "tgid": "TG9999"
+},
+{
+        "id": 510,
+        "callsign": "GLOBAL LINK NUSANTARA",
+        "tgid": "TG510"
+},
+{
+        "id": 555,
+        "callsign": "K2PI LOKAL",
+        "tgid": "TG555"
+}
+]
+}
