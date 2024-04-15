@@ -26,8 +26,5 @@ BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
-HB_ID_PC2_INDO	0000	dmrid.org	passw0rd	62035
-HB_ID_PC2_DMRID	0000	dmrid.org	passw0rd	62034
-HB_ID_PC2_ZNBRT	0000	dmrid.org	passw0rd	62042
-HB_ID_PC2_ZNTMR	0000	dmrid.org	passw0rd	62044
+HB_ID_PC2_DMRID	0000	dmrid.org	passw0rd	62030
 ######################################################################################################
